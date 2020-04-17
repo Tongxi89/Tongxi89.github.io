@@ -1,6 +1,7 @@
 ## Welcome to Tongxi Pages
 
-这是童稀的个人博客网站
+这是童稀写给赵锦儿的恋爱博客网站
+试试手
 更多功能正在研究中
 
 ### Markdown
